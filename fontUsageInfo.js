@@ -68,3 +68,6 @@
 
   document.readyState == 'complete' ? fontUsageInfo() : document.addEventListener('DOMContentLoaded', fontUsageInfo);
 }());
+
+/* Prevent browser to load js as url */
+void(0);
