@@ -14,5 +14,9 @@ Scriptlet to get web page fonts usage info
 On any website click on `Font Usage Info` bookmark to get result.
 Font-Usage-Info works in two modes:
 
-1. If developer tools opened, then Font-Usage-Info will print result to console
+1. If developer tools opened, then Font-Usage-Info will print result to console (Chrome only)
 2. Else you will get alert with info
+
+# Compatibility
+
+Tested on Google Chrome 56 and Mozilla Firefox 53
